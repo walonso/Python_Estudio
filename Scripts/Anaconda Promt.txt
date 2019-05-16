@@ -1,0 +1,9 @@
+Para Ejecutar desde consola python, puede hacerlo buscando "Anaconda prompt":
+
+1. Abra Anaconda Prompt.
+2. ubiquese en el directorio del script (cd ...)
+3. escriba el comando ->   python [Nombre Archivo].py
+4. Si va a enviar parametros ejemplo:   python [Nombre Archivo].py "Hola" 5 5 10
+
+
+Para enviar paramteros, toca importar la loibreria sys
