@@ -1,0 +1,3 @@
+Escribiendo al principio linea con texto
+Esta linea se a modificado en memoria
+Cuarta linea del fichero
