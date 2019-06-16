@@ -1,0 +1,3 @@
+El que se vio en la parte de modulos.
+
+https://docs.hektorprofe.net/python/distribucion/setuptools/
